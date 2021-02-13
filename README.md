@@ -1,2 +1,2 @@
 # MyHackerRank
-My implementation of the HackerRanck challenges
+My implementation of the HackerRank challenges
