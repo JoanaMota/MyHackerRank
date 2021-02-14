@@ -21,6 +21,8 @@
 - Classes and Objects [Easy]
 - Inherited Code [Medium]
 - Box it! [Easy]
+- Exception Server [Medium]
+- Virtual Functions [Medium]
 
 ## STL
 - Deque [Medium]
