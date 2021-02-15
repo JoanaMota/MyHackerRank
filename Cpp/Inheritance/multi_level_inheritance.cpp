@@ -17,22 +17,27 @@ public:
 class Isosceles : public Triangle
 {
 public:
-    //Write your code here.
     void isosceles()
     {
         cout << "I am an isosceles triangle\n";
     }
-    void description()
+};
+//Write your code here.
+class Equilateral : public Isosceles
+{
+public:
+    void equilateral()
     {
-        cout << "In an isosceles triangle two sides are equal\n";
+        cout << "I am an equilateral triangle\n";
     }
 };
 
 int main()
 {
-    Isosceles isc;
-    isc.isosceles();
-    isc.description();
-    isc.triangle();
+
+    Equilateral eqr;
+    eqr.equilateral();
+    eqr.isosceles();
+    eqr.triangle();
     return 0;
 }
