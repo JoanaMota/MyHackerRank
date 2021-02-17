@@ -37,7 +37,7 @@
 - [Inheritance Introduction [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Inheritance/inheritance_intro.cpp)
 - [Multi Level Inheritance [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Inheritance/multi_level_inheritance.cpp)
 - [Accessing Inherited Function [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Inheritance/accessing_inherited_functions.cpp)
--[Rectangle Area [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Inheritance/rectangle_area.cpp)
+- [Rectangle Area [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Inheritance/rectangle_area.cpp)
 
 ## Debugging
 - [Overloading Ostream Operator [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Debugging/overloading_ostream_operator.cpp)
