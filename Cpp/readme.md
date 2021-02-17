@@ -37,10 +37,12 @@
 - [Inheritance Introduction [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Inheritance/inheritance_intro.cpp)
 - [Multi Level Inheritance [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Inheritance/multi_level_inheritance.cpp)
 - [Accessing Inherited Function [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Inheritance/accessing_inherited_functions.cpp)
+-[Rectangle Area [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Inheritance/rectangle_area.cpp)
 
 ## Debugging
 - [Overloading Ostream Operator [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Debugging/overloading_ostream_operator.cpp)
 - [Hotel Prices [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Debugging/hotel_prices.cpp)
+- [Exception Handling [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Debugging/exception_handling.cpp)
 
 ## Others
 - [Operator Overloading [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/operator_overloading.cpp)
