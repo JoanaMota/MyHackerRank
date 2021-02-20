@@ -43,6 +43,9 @@
 - [Overloading Ostream Operator [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Debugging/overloading_ostream_operator.cpp)
 - [Hotel Prices [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Debugging/hotel_prices.cpp)
 - [Exception Handling [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Debugging/exception_handling.cpp)
+- [Messages Order [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Debugging/messages_order.cpp)
 
 ## Others
 - [Operator Overloading [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/operator_overloading.cpp)
+- [Class Templates [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/class_templates.cpp)
+- [Overload Operators [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/overload_operators.cpp)
