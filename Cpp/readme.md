@@ -49,3 +49,4 @@
 - [Operator Overloading [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/operator_overloading.cpp)
 - [Class Templates [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/class_templates.cpp)
 - [Overload Operators [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/overload_operators.cpp)
+- [Attending Workshops [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/attending_workshops.cpp)
