@@ -50,3 +50,5 @@
 - [Class Templates [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/class_templates.cpp)
 - [Overload Operators [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/overload_operators.cpp)
 - [Attending Workshops [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/attending_workshops.cpp)
+- [Preprocessor Solution [Easy]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/preprocessor_solutions.cpp)
+- [Template Specialization [Medium]](https://github.com/JoanaMota/MyHackerRank/blob/main/Cpp/Others/template_specialization.cpp)
