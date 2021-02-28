@@ -1,5 +1,5 @@
 # MyHackerRank
-[Check me out in HackerRank](https://www.hackerrank.com/joana_mota)
+[Check me out on HackerRank](https://www.hackerrank.com/joana_mota)
 
 My implementation of the HackerRank challenges
 
