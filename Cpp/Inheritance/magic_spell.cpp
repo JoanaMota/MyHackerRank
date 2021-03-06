@@ -82,7 +82,6 @@ void counterspell(Spell *spell) {
     int n=spellJ.length();
     int array[m+1][n+1]; 
 
-    // solve for LCS
     for (int i=0;i<=m;i++) array[i][0]=0;
     for (int j=0;j<=n;j++) array[0][j]=0;
     for (int i=1;i<=m;i++) {
